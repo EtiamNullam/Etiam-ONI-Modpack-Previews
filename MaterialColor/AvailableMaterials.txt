@@ -121,3 +121,5 @@ CarbonDioxide
 CopperGas
 FoolsGold
 MoltenCopper
+Cobaltite
+Cobalt
